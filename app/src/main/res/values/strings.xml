@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GeofencingApp</string>
+    <string name="title_activity_maps">Maps</string>
+    <string name="google_maps_key">AIzaSyDFlXPFHezuKbHuff0RrfNmu0TRgF1M9fU</string>
+</resources>
